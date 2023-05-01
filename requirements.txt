@@ -1,0 +1,12 @@
+asgiref==3.6.0
+defusedxml==0.7.1
+Django==4.2
+djangorestframework==3.14.0
+djangorestframework-csv==2.1.1
+djangorestframework-xml==2.0.0
+psycopg2-binary==2.9.6
+python-dotenv==1.0.0
+pytz==2023.3
+six==1.16.0
+sqlparse==0.4.4
+unicodecsv==0.14.1
