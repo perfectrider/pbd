@@ -1,3 +1,10 @@
 from django.db import models
 
-# Create your models here.
+
+class Assortment(models.Model):
+    name = models.CharField(max_length=255)
+    measure_unit = models.CharField(max_length=5)
+
+
+class Division(models.Model):
+    name = models.CharField(max_length=255)
