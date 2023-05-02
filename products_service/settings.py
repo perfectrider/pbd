@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_xml',
     'rest_framework_csv',
+    'drf_yasg',
     'products_app.apps.ProductsAppConfig',
 ]
 
